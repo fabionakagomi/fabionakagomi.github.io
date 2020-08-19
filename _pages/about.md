@@ -15,6 +15,6 @@ Esta página servirá de apoio às atividades de Pesquisa, Ensino e Extensão do
 ![Enquanto isso, em algum laboratório subterrâneo da UnB...](/images/leis_de_fanyao.jpg)
 
 
-#### Sobre esta página
+### Sobre esta página
 
 Esta página utiliza o [academicpages template](https://github.com/academicpages/academicpages.github.io) sendo hospedada no serviço [GitHub pages](https://pages.github.com). Este template foi adaptado de [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) criado por Michael Rose utilizando a licença MIT.
