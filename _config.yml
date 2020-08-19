@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "pt-BR"
-title                    : "Naka Place"
+title                    : "Naka's Place"
 title_separator          : "-"
 name                     : &name "Fábio Nakagomi"
 description              : &description "Foundations of Advanced Introductory Physics for Professional Beginners 02"
