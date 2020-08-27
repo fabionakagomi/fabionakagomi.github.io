@@ -33,5 +33,14 @@ Este é um download grande que irá instalar muitos pacotes não utilizados nest
 
 Uma vez terminado o download, encontre-o e abra-o. Provavelmente está em sua pasta Downloads. Clique duas vezes sobre o arquivo para iniciar a instalação. A menos que você queira personalizar a instalação, basta clicar em "Continuar" até chegar a "Destination Select". Selecione "Instalar somente para mim", a menos que você tenha uma boa razão para fazer o contrário. Isto criará uma pasta chamada anaconda em seu diretório pessoal que armazenará todos os arquivos associados. Clique em "Continuar" para abrir o diálogo "Tipo de Instalação". Clique em "Install" (Instalar) para iniciar uma instalação padrão. Você poderá ser solicitado a criar uma senha.
 
-Após a instalação, você encontrará uma nova pasta chamada Anaconda ou Anaconda (64 bits) em Iniciar>Todos os Programas. Esta pasta contém um atalho para iniciar o Spyder. O script que lança o Spyder também pode ser encontrado no diretório User sob Anaconda3nScriptsnspyder-script.py; alternativamente, o Anaconda3nScriptsnspyder.exe também funcionará.
+Após a instalação, você encontrará uma nova pasta chamada Anaconda ou Anaconda (64 bits) em Iniciar>Todos os Programas. Esta pasta contém um atalho para iniciar o Spyder.
 
+### A.2 - CONFIGURAÇÃO DO SPYDER
+
+Após a instalação do Spyder, há algumas configurações a serem feitas antes de iniciar a escrever e executar os scripts. Todas estas configurações são feitas usando o menu Preferências.
+
+Depois de fazer as mudanças abaixo, talvez seja necessário reiniciar o Spyder.
+
+#### A.2.1 - Diretório de trabalho
+
+Você precisará manter um registro de seus arquivos. A maneira mais fácil de fazer isso de dentro do Spyder é dizer a ele para salvar todo o seu trabalho em uma pasta que você especificar. Escolha "Global working directory" a partir da lista de opções à esquerda do painel de Preferências. À direita, escolha o botão ao lado do seguinte e depois clique no ícone da pasta para selecionar um diretório, ou digite o caminho do diretório que você deseja usar. Talvez você deseje criar uma nova pasta chamada rascunho ou atual para trabalhar. Depois que você selecionou uma pasta, clique nos botões apropriados para que o "Abrir arquivo" e "Novo arquivo" utilizem este diretório. Você ainda pode acessar os arquivos em qualquer lugar em seu computador, mas a configuração destas opções é a maneira mais fácil para localizar os arquivos que você cria com Spyder.
