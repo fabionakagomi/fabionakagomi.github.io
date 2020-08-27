@@ -27,11 +27,9 @@ Se seu sistema operacional atende aos requisitos listados, prossiga para a Seç�
 
 #### A.1.1 - Instalação gráfica
 
-
-
 ##### Windows
 
-Este é download grande que irá instalar muitos pacotes não utilizados neste tutorial; no entanto, a instalação é muito fácil. A menos que você esteja confortável trabalhando a partir da linha de comando, esta é a instalação que eu recomendo.
+Este é um download grande que irá instalar muitos pacotes não utilizados neste tutorial; no entanto, a instalação é muito fácil. A menos que você esteja confortável trabalhando a partir da linha de comando, esta é a instalação que eu recomendo.
 
 Uma vez terminado o download, encontre-o e abra-o. Provavelmente está em sua pasta Downloads. Clique duas vezes sobre o arquivo para iniciar a instalação. A menos que você queira personalizar a instalação, basta clicar em "Continuar" até chegar a "Destination Select". Selecione "Instalar somente para mim", a menos que você tenha uma boa razão para fazer o contrário. Isto criará uma pasta chamada anaconda em seu diretório pessoal que armazenará todos os arquivos associados. Clique em "Continuar" para abrir o diálogo "Tipo de Instalação". Clique em "Install" (Instalar) para iniciar uma instalação padrão. Você poderá ser solicitado a criar uma senha.
 
