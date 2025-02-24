@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Physics, Universidade de Bras\'{i}lia, 2006
+* B.S. in Physics, Universidade de Brasília (UnB), 2006
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
